@@ -2,7 +2,7 @@
 
 <b>INSTALL</b>
 
-1. Download `CopyFromImg.zip` in release
+1. Download `CopyFromImg.zip` from release
 2. Unzip CopyFromImg.zip
 
 OR
